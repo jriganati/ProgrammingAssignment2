@@ -1,4 +1,4 @@
-# The following functions calculte and cache the inverse of a matrix.
+# The following functions calculate and cache the inverse of a matrix.
 # It is assumed that the matrix is invertible.
 #    makeCacheMatrix: This function creates a special "matrix" object that 
 #         can cache its inverse.
